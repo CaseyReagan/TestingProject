@@ -30,5 +30,6 @@ int main(void)
 	printf("尝试新的沟通方法"\n);
 	
 	printf("请神容易送神难"\n);
+	printf("应当坚持看人的标准，有很多人被证明不值得给机会"\n);
 	return 0;
 }
