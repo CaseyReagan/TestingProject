@@ -28,5 +28,7 @@ int main(void)
 	
 	printf("想清楚了一些朴素的社交道理"\n);
 	printf("尝试新的沟通方法"\n);
+	
+	printf("请神容易送神难"\n);
 	return 0;
 }
