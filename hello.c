@@ -36,6 +36,6 @@ int main(void)
 	
 	printf("一夜寒风，晨醒头痛"\n);
 
-	printf(""\n);
+	printf("凉风起天末，君子意如何。"\n);
 	return 0;
 }
