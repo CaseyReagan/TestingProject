@@ -39,6 +39,7 @@ int main(void)
 	printf("凉风起天末，君子意如何。\n");
 	
 	printf("翠娥红粉浑如剑，杀尽世人人不知。\n");
+	printf("可堪心鐵修成劍，錯把青鋒照美人。\n");
 		
 	return 0;
 }
