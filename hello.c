@@ -43,5 +43,7 @@ int main(void)
 	
 	printf("天上剑仙三百万，遇我也需尽低眉。\n");
 	printf("剑气纵横三千里，一剑光寒十九州。\n");
+	
+	printf("我有故人抱剑去，斩尽春风未肯归。\n");
 	return 0;
 }
