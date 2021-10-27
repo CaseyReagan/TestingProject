@@ -42,6 +42,6 @@ int main(void)
 	printf("可堪心鐵修成劍，錯把青鋒照美人。\n");
 	
 	printf("天上剑仙三百万，遇我也需尽低眉。\n");
-	
+	printf("剑气纵横三千里，一剑光寒十九州。\n");
 	return 0;
 }
